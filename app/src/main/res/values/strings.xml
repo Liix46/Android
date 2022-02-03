@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloProject</string>
+    <string name="greetings">Hello Alex!</string>
+    <string name="greetings2">Nice to meet you!</string>
+    <string name="buttonText">Say Hi</string>
+    <string name="buttonCountText">0</string>
+</resources>
